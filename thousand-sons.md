@@ -16,6 +16,8 @@
  14. "Eye Trim": Thousand Sons Blue
  15. "Eye Trim" Edge: Baharroth Blue
  16. Magic Bits: Aethermatic Blue
- 17. Gold Trim, So Much Gold Trim
- 18. Wash Gold Trim: Nuln Gloss
+ 17. Skulls: Morghast Bone
+ 18. Skulls: Wash Skeleton Horde
+ 19. Gold Trim, So Much Gold Trim
+ 20. Wash Gold Trim: Nuln Gloss 
      
