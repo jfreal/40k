@@ -1,9 +1,9 @@
  1. Prime
  2. Basecoat: Wraithbone
  3. Wash: Seraphim Sepia
- 4. ~~Drybrush:  Monument Bold Titanium White~~
+ ~~4. Drybrush:  Monument Bold Titanium White~~
  4. Drybrush:  Wraithbone
- 5. ~~Main Cloths: 2 Thin Coats Red~~
+ ~~5. Main Cloths: 2 Thin Coats Red~~
  5. Main Cloths: 2 Coats Blood Angles Red
  ~~6. Trim Cloths: 2 Coats Screamer Pink~~
  6. Trim Cloths: 2 Coats Volupus Pink
@@ -21,10 +21,11 @@
  18. Skulls: Wash Skeleton Horde
  19. Books: Flesh Tearers Red
  20. Books: Reikland Fleshshade
- 21. Mechanic Parts: Leadbelcher
- 22. Gold Trim
- 23. So Much Gold Trim
- 24. Oh no more Gold Trim
- 25. Wash Gold Trim: Nuln Gloss 
+ 21. Book Pages: Reikland Fleshshade
+ 22. Mechanic Parts: Leadbelcher
+ 23. Gold Trim
+ 24. So Much Gold Trim
+ 25. Oh no more Gold Trim
+ 26. Wash Gold Trim: Nuln Gloss 
      
 Gallery: https://imgur.com/gallery/8mYDLJ9
