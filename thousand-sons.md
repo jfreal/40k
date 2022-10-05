@@ -5,6 +5,7 @@
  4. Drybrush:  Wraithbone
  5. ~~Main Cloths: 2 Thin Coats Red~~
  5. Main Cloths: 2 Coats Blood Angles Red
+ ~~6. Trim Cloths: 2 Coats Screamer Pink~~
  6. Trim Cloths: 2 Coats Volupus Pink
  7. Edge Red Cloths: Wild Rider Red
  8. Edge Purple Cloths: Emperors's Children
@@ -18,7 +19,12 @@
  16. Magic Bits: Aethermatic Blue
  17. Skulls: Morghast Bone
  18. Skulls: Wash Skeleton Horde
- 19. Gold Trim, So Much Gold Trim
- 20. Wash Gold Trim: Nuln Gloss 
+ 19. Books: Flesh Tearers Red
+ 20. Books: Reikland Fleshshade
+ 21. Mechanic Parts: Leadbelcher
+ 22. Gold Trim
+ 23. So Much Gold Trim
+ 24. Oh no more Gold Trim
+ 25. Wash Gold Trim: Nuln Gloss 
      
 Gallery: https://imgur.com/gallery/8mYDLJ9
