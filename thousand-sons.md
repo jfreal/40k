@@ -1,11 +1,10 @@
  1. Prime
  2. Basecoat: Wraithbone
  3. Wash: Seraphim Sepia
- ~~4. Drybrush:  Monument Bold Titanium White~~
  4. Drybrush:  Wraithbone
- ~~5. Main Cloths: 2 Thin Coats Red~~
+ 5. Main Cloths: 1 Thin Coats Red
  5. Main Cloths: 2 Coats Blood Angles Red
- ~~6. Trim Cloths: 2 Coats Screamer Pink~~
+ 6. Trim Cloths: 1 Coats Screamer Pink
  6. Trim Cloths: 2 Coats Volupus Pink
  7. Edge Red Cloths: Wild Rider Red
  8. Edge Purple Cloths: Emperors's Children
@@ -27,5 +26,20 @@
  24. So Much Gold Trim
  25. Oh no more Gold Trim
  26. Wash Gold Trim: Nuln Gloss 
-     
+
+Base:
+
+1. Glue Debris
+2. Astrogranite Debris
+3. Astrogranite
+4. Few Areas with Seraphim Sepa or Aggros Dunes
+5. Thinned Down Basilicanum Grey
+6. Dry Brush Custom Astrogranite Mix
+7. Dry Brush Celestra Grey
+8.  Dry Brush Longbeard Grey
+9.  Dirty Model Legs with Sponge and custom Grey
+10.  Pigment Powder Legs (just legs)
+11.  Add Burnt Grass Tuft
+12.  Pigment Powder around Tuft
+
 Gallery: https://imgur.com/gallery/8mYDLJ9
