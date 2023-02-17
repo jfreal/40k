@@ -27,6 +27,11 @@
  25. Oh no more Gold Trim
  26. Wash Gold Trim: Nuln Gloss 
 
+Dread Red Paint
+1. Base Mephiston Red
+2. 2 Coats Blood Angels Red
+3. 1 Coat Contrast Volupus Pink
+
 Base:
 
 1. Glue Debris
@@ -38,8 +43,8 @@ Base:
 7. Dry Brush Celestra Grey
 8.  Dry Brush Longbeard Grey
 9.  Dirty Model Legs with Sponge and custom Grey
-10.  Pigment Powder Legs (just legs)
+10.  Grey Pigment Powder Legs (just legs)
 11.  Add Burnt Grass Tuft
-12.  Pigment Powder around Tuft
+12.  Black Brown Pigment Powder around Tuft
 
 Gallery: https://imgur.com/gallery/8mYDLJ9
