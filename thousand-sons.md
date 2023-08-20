@@ -45,6 +45,11 @@ Base:
 9.  Dirty Model Legs with Sponge and custom Grey
 10.  Grey Pigment Powder Legs (just legs)
 11.  Add Burnt Grass Tuft
+
+Tzangore
+Black primer. Narragoth Night underspray, A lighter purple underspray, Fire Dragon bright zenithal. Monument white drybrush all over.  Watered down blood angels red on ksin. Ironbreaker drybrush on metal bits.  lighter retributor gold drybrush on gold bits. Gore gunta fur on horns. Then some gold highlights, stormhost silver highlights on weapons, and trollslayer orange highlights on skin (edited)
+Jump
+
 12.  Black Brown Pigment Powder around Tuft
 
 Gallery: https://imgur.com/gallery/8mYDLJ9
