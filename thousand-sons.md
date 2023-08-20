@@ -47,9 +47,20 @@ Base:
 11.  Add Burnt Grass Tuft
 
 Tzangore
-Black primer. Narragoth Night underspray, A lighter purple underspray, Fire Dragon bright zenithal. Monument white drybrush all over.  Watered down blood angels red on ksin. Ironbreaker drybrush on metal bits.  lighter retributor gold drybrush on gold bits. Gore gunta fur on horns. Then some gold highlights, stormhost silver highlights on weapons, and trollslayer orange highlights on skin (edited)
+1. Black primer.
+2. Narragoth Night underspray,
+3. A lighter purple underspray,
+4. Fire Dragon bright zenithal.
+5. Monument white drybrush all over.
+6. Watered down blood angels red on skin
+7. Ironbreaker drybrush on metal bits.
+8. retributor gold drybrush on gold bits.
+9. Gore gunta fur on horns.
+10.  Then some gold highlights,
+11.  stormhost silver highlights on weapons,
+12.  trollslayer orange highlights on skin
 Jump
 
-12.  Black Brown Pigment Powder around Tuft
+13.  Black Brown Pigment Powder around Tuft
 
 Gallery: https://imgur.com/gallery/8mYDLJ9
