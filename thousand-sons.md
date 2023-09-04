@@ -1,3 +1,4 @@
+## Rubrics - Terms
  1. Prime
  2. Basecoat: Wraithbone
  3. Wash: Seraphim Sepia
@@ -48,7 +49,7 @@ Base:
 
 Tzangore
 1. Black primer.
-2. Narragoth Night underspray,
+2. Narragoth Night or Phoenician Purple (likely) underspray,
 3. A lighter purple underspray,
 4. Fire Dragon bright zenithal.
 5. Monument white drybrush all over.
