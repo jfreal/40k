@@ -47,7 +47,7 @@ Base:
 10.  Grey Pigment Powder Legs (just legs)
 11.  Add Burnt Grass Tuft
 
-Tzangore
+Tzaangores
 1. Black primer.
 2. Narragoth Night or Phoenician Purple (likely) underspray,
 3. A lighter purple underspray,
@@ -63,5 +63,12 @@ Tzangore
 Jump
 
 13.  Black Brown Pigment Powder around Tuft
+
+Mutalith Vortex Beast
+1. Narragoth Night or Phoenician Purple (likely) under spray
+2. A lighter purple underspray
+3. troll slayer orange zenny
+4. Fire Dragon bright zenithal (troll slayer orange)
+5. Watered down blood angels red
 
 Gallery: https://imgur.com/gallery/8mYDLJ9
